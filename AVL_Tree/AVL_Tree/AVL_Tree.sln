@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "AVL_Tree", "AVL_Tree\AVL_Tree.pyproj", "{EAB50CBC-D229-4C91-85EE-4DC1CD55570D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAB50CBC-D229-4C91-85EE-4DC1CD55570D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAB50CBC-D229-4C91-85EE-4DC1CD55570D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A014A32-BA54-4729-A952-FB50077AA0DB}
+	EndGlobalSection
+EndGlobal
